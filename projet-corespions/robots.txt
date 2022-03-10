@@ -1,0 +1,7 @@
+user-agent : *
+allow:/home
+allow:/homeDisplayMission
+disallow: /login
+disallow: /admin
+
+sitemap : https://www.corespions.fr/sitemap.xml
