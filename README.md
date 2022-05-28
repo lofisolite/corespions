@@ -18,7 +18,7 @@ Lien vers le site : https://www.corespions.fr/
 - JavaScript
 - PHP
 
-## contenu du repositories
+## Contenu du dêpot
 **Le dossier livrables :**
 - Maquettes de la page d'accueil en wireframe et mock-up (versions mobile et desktop).
 - Commandes SQL de la création des tables de la base de donnée
